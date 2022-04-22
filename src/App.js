@@ -90,10 +90,9 @@ function App() {
                                         color="textSecondary"
                                         component="p"
                                     >
-                                        Lizards are a widespread group of
-                                        squamate reptiles, with over 6,000
-                                        species, ranging across all continents
-                                        except Antarctica
+                                        React Js is a Javascript front end
+                                        framework used to design client slide
+                                        interface.
                                     </Typography>
                                 </CardContent>
                             </CardActionArea>
@@ -111,14 +110,126 @@ function App() {
                                             variant="subtitle2"
                                             component="p"
                                         >
-                                            Guy Clemons
+                                            Joynal Abedin
                                         </Typography>
                                         <Typography
                                             variant="subtitle2"
                                             color="textSecondary"
                                             component="p"
                                         >
-                                            May 14, 2020
+                                            April 30, 2021
+                                        </Typography>
+                                    </Box>
+                                </Box>
+                                <Box>
+                                    <BookmarkBorderIcon />
+                                </Box>
+                            </CardActions>
+                        </Card>
+                    </Grid>
+                    <Grid item xs={12} sm={6} md={4}>
+                        <Card sx={{ maxWidth: '100%' }}>
+                            <CardActionArea>
+                                <CardMedia
+                                    sx={{ height: '240' }}
+                                    image="https://images.pexels.com/photos/2004161/pexels-photo-2004161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                                    title="Contemplative Reptile"
+                                />
+                                <CardContent>
+                                    <Typography
+                                        gutterBottom
+                                        variant="h5"
+                                        component="h2"
+                                    >
+                                        PHP
+                                    </Typography>
+                                    <Typography
+                                        variant="body2"
+                                        color="textSecondary"
+                                        component="p"
+                                    >
+                                        PHP is known as a general-purpose scripting language that can be used to develop dynamic and interactive websites
+                                    </Typography>
+                                </CardContent>
+                            </CardActionArea>
+                            <CardActions
+                                sx={{
+                                    display: 'flex',
+                                    margin: '0 10px',
+                                    justifyContent: 'space-between',
+                                }}
+                            >
+                                <Box sx={{ display: 'flex' }}>
+                                    <Avatar src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" />
+                                    <Box ml={2}>
+                                        <Typography
+                                            variant="subtitle2"
+                                            component="p"
+                                        >
+                                            Joynal Abedin
+                                        </Typography>
+                                        <Typography
+                                            variant="subtitle2"
+                                            color="textSecondary"
+                                            component="p"
+                                        >
+                                            April 30, 2021
+                                        </Typography>
+                                    </Box>
+                                </Box>
+                                <Box>
+                                    <BookmarkBorderIcon />
+                                </Box>
+                            </CardActions>
+                        </Card>
+                    </Grid>
+                    <Grid item xs={12} sm={6} md={4}>
+                        <Card sx={{ maxWidth: '100%' }}>
+                            <CardActionArea>
+                                <CardMedia
+                                    sx={{ height: '240' }}
+                                    image="https://images.pexels.com/photos/2004161/pexels-photo-2004161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                                    title="Contemplative Reptile"
+                                />
+                                <CardContent>
+                                    <Typography
+                                        gutterBottom
+                                        variant="h5"
+                                        component="h2"
+                                    >
+                                        Python
+                                    </Typography>
+                                    <Typography
+                                        variant="body2"
+                                        color="textSecondary"
+                                        component="p"
+                                    >
+                                        Python is often used as a support language for software developers, for build control and management, testing, and in many other ways
+                                    </Typography>
+                                </CardContent>
+                            </CardActionArea>
+                            <CardActions
+                                sx={{
+                                    display: 'flex',
+                                    margin: '0 10px',
+                                    justifyContent: 'space-between',
+                                }}
+                            >
+                                <Box sx={{ display: 'flex' }}>
+                                    <Avatar src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" />
+                                    <Box ml={2}>
+                                        <Typography
+                                            variant="subtitle2"
+                                            component="p"
+                                        >
+                                            Joynal Abedin
+                                        </Typography>
+                                        <Typography
+                                            variant="subtitle2"
+                                            color="textSecondary"
+                                            component="p"
+                                        >
+                                            April 30, 2021
                                         </Typography>
                                     </Box>
                                 </Box>
@@ -149,10 +260,9 @@ function App() {
                                         color="textSecondary"
                                         component="p"
                                     >
-                                        Lizards are a widespread group of
-                                        squamate reptiles, with over 6,000
-                                        species, ranging across all continents
-                                        except Antarctica
+                                        Node Js is used for server side
+                                        rendering.It ensures the back-end
+                                        interface for the websites.
                                     </Typography>
                                 </CardContent>
                             </CardActionArea>
@@ -170,14 +280,14 @@ function App() {
                                             variant="subtitle2"
                                             component="p"
                                         >
-                                            Guy Clemons
+                                            Priscila 
                                         </Typography>
                                         <Typography
                                             variant="subtitle2"
                                             color="textSecondary"
                                             component="p"
                                         >
-                                            May 14, 2020
+                                            April 20, 2021
                                         </Typography>
                                     </Box>
                                 </Box>
@@ -208,10 +318,9 @@ function App() {
                                         color="textSecondary"
                                         component="p"
                                     >
-                                        Lizards are a widespread group of
-                                        squamate reptiles, with over 6,000
-                                        species, ranging across all continents
-                                        except Antarctica
+                                        For the server side run time
+                                        environment,express js is being used
+                                        along with node js as the server.
                                     </Typography>
                                 </CardContent>
                             </CardActionArea>
@@ -229,14 +338,14 @@ function App() {
                                             variant="subtitle2"
                                             component="p"
                                         >
-                                            Guy Clemons
+                                            Emma White
                                         </Typography>
                                         <Typography
                                             variant="subtitle2"
                                             color="textSecondary"
                                             component="p"
                                         >
-                                            May 14, 2020
+                                            April 10, 2021
                                         </Typography>
                                     </Box>
                                 </Box>
@@ -267,10 +376,9 @@ function App() {
                                         color="textSecondary"
                                         component="p"
                                     >
-                                        Lizards are a widespread group of
-                                        squamate reptiles, with over 6,000
-                                        species, ranging across all continents
-                                        except Antarctica
+                                        Firebase is a Backend-as-a-Service
+                                        (Baas). It provides developers with many tools.Firebase
+                                        is categorized as a NoSQL database.
                                     </Typography>
                                 </CardContent>
                             </CardActionArea>
@@ -288,14 +396,14 @@ function App() {
                                             variant="subtitle2"
                                             component="p"
                                         >
-                                            Guy Clemons
+                                            Adam White
                                         </Typography>
                                         <Typography
                                             variant="subtitle2"
                                             color="textSecondary"
                                             component="p"
                                         >
-                                            May 14, 2020
+                                            April 5, 2021
                                         </Typography>
                                     </Box>
                                 </Box>
